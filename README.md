@@ -1,0 +1,4 @@
+# Heart Failure Prediction
+Heart failure is a serious condition where the heart cannot pump blood efficiently, leading to complications such as organ damage and increased mortality. Our project aims to predict early signs of this condition and possibly alter the path of a person through medical intervention. The project is focused on developing a predictive model to assess heart failure risk based on patient data.
+
+Using **supervised learning** techniques and a comprehensive dataset, we aim to provide accurate early warnings to healthcare professionals. The model is integrated into a user-friendly desktop application with a CustomTkinter GUI, allowing medical practitioners to input patient information and receive risk assessments, ultimately enabling timely interventions and improving patient outcomes.
